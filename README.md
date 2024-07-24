@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub Profile! 👋
 
-HI, I'm @just-sufyaan, and I'm passionate about Computer Science. Im interested in creating games and websites, and I'm currently on a journey to expand my knowledge in these areas.
+HI, I'm @just-sufyaan, and I'm passionate about Sotware Development. Im interested in creating applications, games and websites, and I'm currently on a journey to expand my knowledge in these areas.
 
 About Me
 👀 I’m interested in learning more about computer science as a whole.
