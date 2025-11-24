@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, names Sufyaan**.
+Hi, names **Sufyaan**.
 I love learning about **software development** and enjoy making **apps, games, and websites**.
 
 ---
